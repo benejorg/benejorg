@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benejorg
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React and Angular.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
 
 <!---
 benejorg/benejorg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
