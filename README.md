@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @benejorg
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 👋 Hi, I’m @benejorg, a 27 year old hearing-impaired designer & developer from Norway.
+- 🌱 I’m currently learning React, and possibly Vue.js & Svelte later.
 
 <!---
 benejorg/benejorg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
